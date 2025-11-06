@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/Candles_Store/',
+  base: '/my_candles_shop/',
   plugins: [react()],
 })

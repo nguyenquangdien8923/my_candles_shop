@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://nguyenquangdien8923.github.io/Candles_Store",
+  "homepage": "https://nguyenquangdien8923.github.io/my_candles_shop",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
