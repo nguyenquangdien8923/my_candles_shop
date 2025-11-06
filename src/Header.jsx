@@ -23,9 +23,9 @@ export default function Header() {
           <nav
             className={`hidden md:flex items-center space-x-8 text-lg font-semibold ${primaryColor}`}
           >
-            <a href="/my_candles_app/#/" className={`${hoverColor} transition`}>Trang chủ</a>
-            <a href="/my_candles_app/#/products" className={`${hoverColor} transition`}>Sản phẩm</a>
-            <a href="/my_candles_app/#/about" className={`${hoverColor} transition`}>Về chúng tôi</a>
+            <a href="/my_candles_shop/#/" className={`${hoverColor} transition`}>Trang chủ</a>
+            <a href="/my_candles_shop/#/products" className={`${hoverColor} transition`}>Sản phẩm</a>
+            <a href="/my_candles_shop/#/about" className={`${hoverColor} transition`}>Về chúng tôi</a>
           </nav>
         </div>
 
