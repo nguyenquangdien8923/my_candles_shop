@@ -68,9 +68,9 @@ export default function App() {
           <main className="flex-1 flex justify-center items-start pt-32">
             <div className="max-w-7xl w-full px-6">
               <Routes>
-                <Route path="/" element={<Home />} />
-                <Route path="/products" element={<Products />} />
-                <Route path="/about" element={<About />} />
+                <Route path="/my_candles_shop/#/" element={<Home />} />
+                <Route path="/my_candles_shop/#/products" element={<Products />} />
+                <Route path="/my_candles_shop/#/about" element={<About />} />
               </Routes>
             </div>
           </main>
