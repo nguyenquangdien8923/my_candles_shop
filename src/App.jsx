@@ -12,7 +12,7 @@ const PRODUCTS = [
     id: 1,
     title: "Nến thơm Lavender Bliss",
     price: 199000,
-    img: "https://github.com/nguyenquangdien8923/Candles_Store/blob/gh-pages/images/2.png",
+    img: "./images/2.png",
     short: "Hương lavender thư giãn, thời gian cháy 40 giờ.",
     benefits: ["Thư giãn", "Giảm stress", "Trang trí nội thất"],
     market: "Tặng quà, spa, gia đình"

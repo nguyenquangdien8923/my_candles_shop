@@ -13,7 +13,7 @@ export default function Header() {
           {/* Logo */}
           <div className="flex items-center space-x-2">
             <img
-              src="https://github.com/nguyenquangdien8923/Candles_Store/blob/gh-pages/images/1.jpg" // ảnh trong public/images
+              src="./images/1.jpg" // ảnh trong public/images
               alt="Logo"
               className="w-20 h-16 object-contain"
             />
